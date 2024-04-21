@@ -13,4 +13,6 @@ int swap(int a,int b){
     a=b;
     b=tmp;
     printf("a=%d b=%d",a,b);
+
+    
 }
