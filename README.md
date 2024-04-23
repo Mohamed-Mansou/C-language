@@ -1,1 +1,1 @@
-Learning c language course as could as possible
+Learning c language course 
